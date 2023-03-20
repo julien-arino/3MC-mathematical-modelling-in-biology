@@ -8,4 +8,4 @@ Find some lectures here.
 
 ## Michael Li
 
-- [Lecture 1]()
+- [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/MLi-3MC-Lecture1.pdf)
