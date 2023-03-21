@@ -4,11 +4,11 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 ## [Stéphanie Portet](https://server.math.umanitoba.ca/~sportet/index.html) (University of Manitoba)
 
-- [Lecture 1](SA_Portet_1.pdf)
+- [Lecture 1](SA_Portet_1.pdf): Introduction to modelling
 
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 
-- [Lecture 1](MLi-3MC-Lecture1.pdf)
+- [Lecture 1](MLi-3MC-Lecture1.pdf): Basic Epidemic Models, Disease Data, and Challenges in Modeling Epidemics
 
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
