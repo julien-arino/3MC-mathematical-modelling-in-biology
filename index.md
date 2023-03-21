@@ -5,6 +5,8 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 ## [Stéphanie Portet](https://server.math.umanitoba.ca/~sportet/index.html) (University of Manitoba)
 
 - [Lecture 1](SA_Portet_1.pdf): Introduction to modelling
+- [Lecture 2(a)](SA_Portet_2_ODE.pdf): Toolbox to analyse Ordinary Differential Equation models
+- [Lecture 2(b)](SA_Portet_2_DE.pdf): Toolbox to analyse discrete time models
 
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 

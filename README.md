@@ -5,6 +5,8 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 ## [Stéphanie Portet](https://server.math.umanitoba.ca/~sportet/index.html) (University of Manitoba)
 
 - [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_1.pdf): Introduction to modelling
+- [Lecture 2(a)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_ODE.pdf): Toolbox to analyse Ordinary Differential Equation models
+- [Lecture 2(b)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_DE.pdf): Toolbox to analyse discrete time models
 
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 
