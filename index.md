@@ -4,11 +4,11 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 ## Stéphanie Portet
 
-- [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_1.pdf)
+- [Lecture 1](SA_Portet_1.pdf)
 
 ## Michael Li
 
-- [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/MLi-3MC-Lecture1.pdf)
+- [Lecture 1](MLi-3MC-Lecture1.pdf)
 
 ## Julien Arino
 
