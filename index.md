@@ -16,6 +16,10 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 - Nothing to see here yet
 
+## [James Watmough](https://jameswatmough.github.io/) (University of New Brunswick)
+
+James' material is on his website. I will add links to stuff he mentions here, for convenience.
+
 ## Code directory
 
 You can find some code related to the lectures in [this directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE) in the GitHub repo.
