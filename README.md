@@ -11,6 +11,8 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 
 - [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/MLi-3MC-Lecture1.pdf): Basic Epidemic Models, Disease Data, and Challenges in Modeling Epidemics
+- [Lecture 2](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/MLi-3MC-Lecture2.pdf): Heterogeneous Epidemic Models and a Graph-Theoretic Metho>
+
 
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
