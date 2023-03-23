@@ -21,6 +21,8 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 James' material is on his website. I will add links to stuff he mentions here, for convenience.
 
+- [Lecture 1](https://jameswatmough.github.io/IntroductoryMathematicalBiology/) on the simple death process.
+
 ## Code directory
 
 You can find some code related to the lectures in [this directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE) in the GitHub repo.
