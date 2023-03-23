@@ -16,7 +16,7 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
-- Nothing to see here yet
+- A lecture (from another course) on parameter identification [here](https://julien-arino.github.io/omni-course/2023-01-OMNI-07-ETP-fitting_and_stochastic.pdf)
 
 ## [James Watmough](https://jameswatmough.github.io/) (University of New Brunswick)
 
