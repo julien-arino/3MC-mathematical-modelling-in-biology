@@ -12,6 +12,7 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 - [Lecture 1](MLi-3MC-Lecture1.pdf): Basic Epidemic Models, Disease Data, and Challenges in Modeling Epidemics
 - [Lecture 2](MLi-3MC-Lecture2.pdf): Heterogeneous Epidemic Models and a Graph-Theoretic Method for Constructing Lyapunov Functions
+- [Lecture 3](MLi-3MC-Lecture3.pdf): In-Host Models for Viral Infections of Cells and Backward Bifurcation
 
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
