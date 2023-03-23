@@ -19,7 +19,7 @@ These are some of the lectures from the [3MC African Mathematical School on Math
 
 ## [James Watmough](https://jameswatmough.github.io/) (University of New Brunswick)
 
-James' material is on his website. I will add links to stuff he mentions here, for convenience.
+James' material is on [his website](https://jameswatmough.github.io/). I will add links to stuff he mentions here, for convenience.
 
 - [Lecture 1](https://jameswatmough.github.io/IntroductoryMathematicalBiology/) on the simple death process.
 
