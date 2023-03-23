@@ -7,6 +7,7 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 - [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_1.pdf): Introduction to modelling
 - [Lecture 2(a)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_ODE.pdf): Toolbox to analyse Ordinary Differential Equation models
 - [Lecture 2(b)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_DE.pdf): Toolbox to analyse discrete time models
+- [Lecture 3](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_3.pdf): Beyond mathematical analysis
 
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 
@@ -15,15 +16,15 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 - [Lecture 3](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/MLi-3MC-Lecture3.pdf): In-Host Models for Viral Infections of Cells and Backward Bifurcation
 
 
-## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
-
-- A lecture (from another course) on parameter identification [here](https://julien-arino.github.io/omni-course/2023-01-OMNI-07-ETP-fitting_and_stochastic.pdf)
-
 ## [James Watmough](https://jameswatmough.github.io/) (University of New Brunswick)
 
 James' material is on [his website](https://jameswatmough.github.io/). I will add links to stuff he mentions here, for convenience.
 
 - [Lecture 1](https://jameswatmough.github.io/IntroductoryMathematicalBiology/) on the simple death process.
+
+## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
+
+- A lecture (from another course) on parameter identification [here](https://julien-arino.github.io/omni-course/2023-01-OMNI-07-ETP-fitting_and_stochastic.pdf)
 
 ## Code directory
 
