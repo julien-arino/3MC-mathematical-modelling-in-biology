@@ -21,9 +21,14 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 
 - [Lecture 1](https://jameswatmough.github.io/IntroductoryMathematicalBiology/) on the simple death process.
 
+## [Jacek Banasiak]() (University of Pretoria)
+
+- [Lecture 1](Potch2023.pdf) 
+
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
 - A lecture (from another course) on parameter identification [here](https://julien-arino.github.io/omni-course/2023-01-OMNI-07-ETP-fitting_and_stochastic.pdf)
+- [Lecture 1](2023-03-24-chemostat.pdf): The chemostat
 
 ## Code directory
 
