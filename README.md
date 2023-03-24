@@ -24,7 +24,7 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 
 ## [Jacek Banasiak](https://www.up.ac.za/mathematics-and-applied-mathematics/article/2229299/prof-j-jacek-banasiak) (University of Pretoria)
 
-- [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/Potch2023.pdf) 
+- [All lectures in one file](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/Potch2023.pdf) 
 
 ## [Julien Arino](https://julien-arino.github.io) (University of Manitoba)
 
