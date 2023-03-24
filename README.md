@@ -1,6 +1,6 @@
 # 3MC - African Mathematical School on Mathematical Modeling in Biology
 
-Find some lectures for the [African Mathematical School on Mathematical Modeling in Biology](https://natural-sciences.nwu.ac.za/paa/3MC-School-BM) here. 
+Find some lectures for the [African Mathematical School on Mathematical Modeling in Biology](https://natural-sciences.nwu.ac.za/paa/3MC-School-BM) here. See the web page version [here](https://julien-arino.github.io/3MC-mathematical-modelling-in-biology/).
 
 ## [Stéphanie Portet](https://server.math.umanitoba.ca/~sportet/index.html) (University of Manitoba)
 
