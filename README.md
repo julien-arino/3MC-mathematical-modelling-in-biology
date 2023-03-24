@@ -34,4 +34,8 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 
 ## Code directory
 
-You can find some code related to the lectures in [this directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE) in the GitHub repo.
+You can find some code related to the lectures in [this directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE) in the GitHub repo. Specifically, follow the links below to get directly to the code by:
+- [Julien Arino](https://julien-arino.github.io): [code directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE/Julien)
+- [Faraimunashe Chirove](https://www.uj.ac.za/members/faraimunashe-chirove/): [code directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE/Faraimunache)
+- [Michael Li](https://www.ualberta.ca/~myli): [code directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE/Michael)
+- [Stéphanie Portet](https://server.math.umanitoba.ca/~sportet/index.html): [code directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE/Stephanie)
