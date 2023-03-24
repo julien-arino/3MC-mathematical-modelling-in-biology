@@ -3,5 +3,6 @@ title: 3MC African Mathematical School on Mathematical Modeling in Biology
 description: Some course material (slides and code).
 show_downloads: true
 logo: /FIGS/FibonacciChamomile.png
+favicon: /FIGS/favicon.png
 plugins:
   - jekyll-sitemap
