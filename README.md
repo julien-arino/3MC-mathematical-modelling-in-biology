@@ -8,6 +8,7 @@ Find some lectures for the [African Mathematical School on Mathematical Modeling
 - [Lecture 2(a)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_ODE.pdf): Toolbox to analyse Ordinary Differential Equation models
 - [Lecture 2(b)](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_2_DE.pdf): Toolbox to analyse discrete time models
 - [Lecture 3](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_3.pdf): Beyond mathematical analysis
+- [Lecture 4](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/SA_Portet_4.pdf): Use of collection of models and model selection
 
 ## [Michael Li](https://www.ualberta.ca/~myli) (University of Alberta)
 
