@@ -32,6 +32,7 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 - A lecture (from another course) on parameter identification [here](https://julien-arino.github.io/omni-course/2023-01-OMNI-07-ETP-fitting_and_stochastic.pdf)
 - [Lecture 1](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/2023-03-24-chemostat.pdf): The chemostat
 - [Lecture 2](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/2023-03-27-metapops.pdf): Metapopulation models. Note: not proofread yet, definitely needs further editing
+- [Lecture 3](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/2023-03-28-stochastics.pdf): A few more random things about stoc>
 
 
 ## Code directory
