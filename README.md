@@ -34,6 +34,9 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 - [Lecture 2](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/2023-03-27-metapops.pdf): Metapopulation models. Note: not proofread yet, definitely needs further editing
 - [Lecture 3](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/2023-03-28-stochastics.pdf): A few more random things about stoc>
 
+## [Rachid Ouifki]() (Northwest University)
+
+- [All lectures in one file](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/blob/main/Ouifki_DDEs-Intro-Appli.pdf): Delay differential equations
 
 ## Code directory
 
