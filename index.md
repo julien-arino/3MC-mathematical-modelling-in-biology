@@ -33,7 +33,7 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 - [Lecture 2](2023-03-27-metapops.pdf): Metapopulation models. Note: not proofread yet, definitely needs further editing
 - [Lecture 3](2023-03-28-stochastics.pdf): A few more random things about stochastic stuff
 
-## [Rachid Ouifki]() (Northwest University)
+## Rachid Ouifki] (North West University)
 
 - [All lectures in one file](Ouifki_DDEs-Intro-Appli.pdf): Delay differential equations
 
