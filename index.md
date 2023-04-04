@@ -33,6 +33,10 @@ James' material is on [his website](https://jameswatmough.github.io/). I will ad
 - [Lecture 2](2023-03-27-metapops.pdf): Metapopulation models. Note: not proofread yet, definitely needs further editing
 - [Lecture 3](2023-03-28-stochastics.pdf): A few more random things about stochastic stuff
 
+## Rachid Ouifki] (North West University)
+
+- [All lectures in one file](Ouifki_DDEs-Intro-Appli.pdf): Delay differential equations
+
 ## Code directory
 
 You can find some code related to the lectures in [this directory](https://github.com/julien-arino/3MC-mathematical-modelling-in-biology/tree/main/CODE) in the GitHub repo. Specifically, follow the links below to get directly to the code by:
